@@ -16,8 +16,7 @@ public class ContaTerminal {
         System.out.println("Agora, o número da sua agência");
         int agencia = scanner.nextInt();
         
-        System.out.println("Informe qual seu saldo atual");
-        double saldo = scanner.nextDouble();
+        double saldo = 500.00;
 
         
         //imprimindo os dados obtidos pelo usuario
